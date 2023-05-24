@@ -15,3 +15,5 @@ Md -> El valor del dolar en la moneda de destino.</br>
 Ejemplo: 50 pesos mexicanos a pesos colombianos (1MXN -> 0.0544USD y 1USD -> 4754.5COP)</br>
 C = 50 * 0.0544 * 4754.5</br>
 C = 12932.24 pesos colombianos.
+<br/>
+<img src="https://github.com/DelianJ/Convertidor_de_unidades/assets/114271050/3eb132d1-2900-4271-81f2-6fac0353fc22"/>
